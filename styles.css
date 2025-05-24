@@ -154,7 +154,10 @@ footer{
   border-radius: 20px;
 }
 
-
+.form{
+ margin: 500px;
+ position: center;   
+}
 
 :root{
     scroll-behavior: smooth;
